@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">• Gaming<br>• Software Development<br>• Game Development<br>• Generative AI (text-to-image, text-to-text)<br>• Graphic design</h4>
+<h4 align="left">• Software Development<br>• Game Development<br>• AI<br>• Graphic design<br> • Gaming</h4>
 
 ###
 
