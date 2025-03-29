@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aspiring Software Engineer | Currently enrolled in Software Engineering at FIAP - Faculdade de Informática e Administração Paulista. <br>Actively seeking front-end development job opportunities.
+<p align="left">Aspiring Software Engineer | Currently enrolled in Software Engineering at FIAP - Faculdade de Informática e Administração Paulista. <br>Actively seeking long-term front-end development internship opportunities.
 <br><br>Information is power.</p>
 
 ###
