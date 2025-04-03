@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="left">• Software Development<br>• Game Development<br>• AI<br>• Graphic design<br> • Gaming</h4>
+<h4 align="left">- Software Development<br> - Web Development - Game Development<br> - AI (ML/DL)<br> - Graphic design<br> - Gaming</h4>
 
 ###
 
